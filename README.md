@@ -7,3 +7,7 @@
 5. Open browser and go to specific Solana dapp
 6. Inspect the browser and paste in the `Console` tab
 7. Connect wallet
+
+# References
+
+https://github.com/anza-xyz/wallet-standard/blob/master/WALLET.md
